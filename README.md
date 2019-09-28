@@ -47,3 +47,4 @@ Case 4: Item-based CF recommendation system with Jaccard based LSH generated in 
 | Case3	| 1.15 | 109 |
 | Case4 | 1.15 | 150 |
 
+My experiments to use fast.ai library to build recommender engine for yelp is present at: [Recommender system using fast.ai](https://github.com/mansiganatra/recommender-system-for-yelp-using-fastai)
